@@ -1,0 +1,12 @@
+﻿UnitTesting/obj
+UnitTesting/bin
+Services/obj
+Services/bin
+Repository/obj
+Repository/bin
+OrderSorter/obj
+OrderSorter/bin
+Core/obj
+.vs/ProjectEvaluation
+.vs
+Core/bin
